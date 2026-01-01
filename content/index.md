@@ -1,5 +1,5 @@
 ---
-title: Index
-draft: false
+title: charlesv friend wiki
 ---
-I need an index page for this website to work properly. I'll make it fancy later.
+
+I'll make this home page fancy later.

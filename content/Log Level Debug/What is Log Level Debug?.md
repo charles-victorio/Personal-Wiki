@@ -1,5 +1,8 @@
-Dec 30, 2025
+---
+date: 2025-12-30
+---
 
-Journaling. This is where I try to write a little bit every day starting today. The goal is to just get the juices flowing. I'll probably start out with a 15 minute "write and keep writing until the time runs out", inspired by the hemmingway editor online. This way, my brain gets comfortable going into writer mode rather than critic mode. Then I'll keep writing and allow myself to edit for an additional 15 minutes. 
+
+Journaling. This is where I try to write a little bit every day starting today. The goal is to just get the juices flowing. I'll probably start out with a 15 minute "write and keep writing until the time runs out", inspired by [the most dangerous writing app](https://www.squibler.io/dangerous-writing-prompt-app. This way, my brain gets comfortable going into writer mode rather than critic mode. Then I'll keep writing and allow myself to edit for an additional 15 minutes. 
 
 These writings are not made with other people in mind, so I won't be notifying people after I write them, but they are available to read so people can understand a bit about my thoughts -- after all, if the idea is to write every day, then I'll hopefully talk about what was stressing me out that day, and going through my writings over time will help give you a sense of what weighs heavily on me. Hence the programming-themed and potentially pretentious name of my journal, Log Level Debug. In programming, you want to know what the computer is doing. When there are errors, you wish you had a highly detailed description of what was going on, but most of the time, you don't want to wade your way through a deluge of minor details, which don't contain any interesting information for the most part.

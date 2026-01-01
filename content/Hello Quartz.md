@@ -1,6 +1,7 @@
 ---
 title: Hello Quartz
 draft: false
+date: 2025-12-30
 ---
 
 I'm switching from Obsidian Publish to [Qwartz](https://quartz.jzhao.xyz/) because it can be self-hosted, meaning it's much cheaper and allows for me to have multiple wikis (one for friends, one for the public, and one for an online community I'm a part of).
